@@ -2,11 +2,8 @@ let resumeData = {
   "imagebaseurl":"https://thuydao.github.io/cv",
   "name": "Thuy Dao",
   "role": "Mobile Technical Leader",
-  "linkedinId":"Thủy Đào",
   "skypeid": "daoduythuy9690",
-  "roleDescription": " I started working in early 2012. I can work with mobile native (iOS) and hybrid using React Native.\
-   I have exp about e-commerce, social networking, xmpp, pjsip, socket, chart, media...\
-   I am willing to learn and be to new challenges in the future",
+  "roleDescription": " I started working in early 2012. I can work with mobile native (iOS) and hybrid using React Native. I have exp about e-commerce, social networking, xmpp, pjsip, socket, chart, media... I am willing to learn and be to new challenges in the future",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -24,8 +21,7 @@ let resumeData = {
         "className":"fa fa-skype"
       }
     ],
-  "aboutme":"I have finished my B.E. in Computer Science \n \
-   and have been working in industry for past few years.",
+  "aboutme":"I have finished my B.E. in Computer Science \nand have been working in industry for past few years.",
   "address":"Ha Noi, Viet Nam",
   "website":"https://www.facebook.com/daoduythuy",
   "education":[
@@ -50,46 +46,28 @@ let resumeData = {
       "specialization":"Tech Leader",
       "MonthOfLeaving":"-",
       "YearOfLeaving":"Present",
-      "Achievements":"- Technology research\
-      \n- Development VTVcab ON.\
-      \n- Development DRM, integration to Harmonic transcode system.\
-      \n- Management ONSport team\
-      "
+      "Achievements":"- Technology research \n- Development VTVcab ON. \n- Development DRM, integration to Harmonic transcode system. \n- Management ONSport team"
     },
     {
       "CompanyName":"SmartOSC",
       "specialization":"Mobile Tech Leader",
       "MonthOfLeaving":"May",
       "YearOfLeaving":"2017",
-      "Achievements":"- Pre-sale.\
-      \n- Define Architecture, convention for SmartOSC’s projects.\
-      \n- Review code, avoid any risk in all commits of the members and follow convention.\
-      \n- Build library (‘TDCore’), research new trend technology.\
-      \n- Join to dedicated team, project base, product team.\
-      \n- Resource management\
-      "
+      "Achievements":"- Pre-sale.\n- Define Architecture, convention for SmartOSC’s projects.\n- Review code, avoid any risk in all commits of the members and follow convention.\n- Build library (‘TDCore’), research new trend technology.\n- Join to dedicated team, project base, product team.\n- Resource management"
     },
     {
       "CompanyName":"QSoft VietNam",
       "specialization":"Mobile Tech Leader",
       "MonthOfLeaving":"Feb",
       "YearOfLeaving":"2015",
-      "Achievements":"- Research new technology (Swift, RAD, game …).\
-      \n- Support other ios developer in problem solving and bug fixing.\
-      \n- Incharge of solving difficult technical problems.\
-      \n- Successfully applied 3rd parties library/frame work to qsoft project such as easy tableView, cache resource webview, the google directions  …\
-      \n- Sale support : aswer technical question, prepare technical proposal, estimate project effort.\
-      "
+      "Achievements":"- Research new technology (Swift, RAD, game …).\n- Support other ios developer in problem solving and bug fixing.\n- Incharge of solving difficult technical problems.\n- Successfully applied 3rd parties library/frame work to qsoft project such as easy tableView, cache resource webview, the google directions  …\n- Sale support : aswer technical question, prepare technical proposal, estimate project effort."
     },
     {
       "CompanyName":"VMODEV",
       "specialization":"Developer",
       "MonthOfLeaving":"Dec",
       "YearOfLeaving":"2013",
-      "Achievements":"- Development applications chat, voice calls, social networking, and utility applications…\
-      \n- The technologies and languages applied for the job: Xmpp, lync, objective –c, html, javascript, phonegap, java …\
-      \n- Management and responsible for the progress and quality for team.\
-      "
+      "Achievements":"- Development applications chat, voice calls, social networking, and utility applications…\n- The technologies and languages applied for the job: Xmpp, lync, objective –c, html, javascript, phonegap, java …\n- Management and responsible for the progress and quality for team."
     },
   ],
   "skillsDescription":"Skills list",
