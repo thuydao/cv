@@ -21,7 +21,7 @@ let resumeData = {
         "className":"fa fa-skype"
       }
     ],
-  "aboutme":"I have finished my B.E. in Computer Science \nand have been working in industry for past few years.",
+  "aboutme":"I have experience working as part of a team and individually. Use a creative approach to problem solve and coming up with innovative ideas",
   "address":"Ha Noi, Viet Nam",
   "website":"https://www.facebook.com/daoduythuy",
   "education":[
@@ -152,8 +152,8 @@ let resumeData = {
   ],
   "testimonials":[
     {
-      "description":"",
-      "name":"eWay Customer"
+      "description":"-",
+      "name":"NaN"
     },
     // {
     //   "description":"This is a sample testimonial",

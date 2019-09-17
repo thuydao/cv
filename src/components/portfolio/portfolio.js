@@ -13,7 +13,7 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item" key={item.name}>
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    <a href={`${item.link}`} target="_blank" rel="noopener noreferrer">
                       <img src={`${item.imgurl}`} className="item-img" alt="Foo eating a sandwich."/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
