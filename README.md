@@ -1,3 +1,3 @@
 # cv
 
-new update
+https://thuydao.github.io/cv/
