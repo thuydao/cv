@@ -42,10 +42,17 @@ let resumeData = {
   ],
   "work":[
     {
-      "CompanyName":"VTVCab",
-      "specialization":"Tech Leader",
+      "CompanyName":"AxleHire",
+      "specialization":"Tech team",
       "MonthOfLeaving":"-",
       "YearOfLeaving":"Present",
+      "Achievements":"- AxleHire is logictics startup base on US.\n- Driver App (flutter)\n- Outbound App (flutter)\n- Map offline solution, passport scan"
+    },
+    {
+      "CompanyName":"VTVCab",
+      "specialization":"Tech Leader",
+      "MonthOfLeaving":"10",
+      "YearOfLeaving":"2019",
       "Achievements":"- Technology research \n- Development VTVcab ON. \n- Development DRM, integration to Harmonic transcode system. \n- Management ONSport team"
     },
     {
@@ -85,7 +92,7 @@ let resumeData = {
       "skillname":"React Native"
     },
     {
-      "skillname":"ReactJS"
+      "skillname":"Flutter"
     }
   ],
   "portfolio":[
