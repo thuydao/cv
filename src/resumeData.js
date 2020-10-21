@@ -46,7 +46,7 @@ let resumeData = {
       "specialization":"Tech team",
       "MonthOfLeaving":"-",
       "YearOfLeaving":"Present",
-      "Achievements":"- AxleHire is logictics startup base on US.\n- Driver App (flutter)\n- Outbound App (flutter)\n- Map offline solution, passport scan"
+      "Achievements":"- AxleHire is logictics startup base on US.\n- Driver App (Flutter)\n- Outbound App (Flutter)\n- Map offline solution, passport scan"
     },
     {
       "CompanyName":"VTVCab",

@@ -379,6 +379,12 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: reactjs 2s ease;
 }
 
+.flutter {
+   width: 75%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
