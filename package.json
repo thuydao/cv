@@ -17,7 +17,7 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "ajv": "^6.5.4",
+    "ajv": "^6.12.3",
     "gh-pages": "^2.2.0",
     "url-parse": "^1.4.3"
   },
