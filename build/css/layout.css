@@ -369,18 +369,38 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .nodejs {
-   width: 60%;
+   width: 70%;
    -moz-animation: reactjs 2s ease;
    -webkit-animation: reactjs 2s ease;
 }
 .reactnative {
-   width: 60%;
+   width: 90%;
    -moz-animation: reactjs 2s ease;
    -webkit-animation: reactjs 2s ease;
 }
 
 .flutter {
+   width: 80%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.java {
+   width: 60%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.kotlin {
    width: 75%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.go {
+   width: 50%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.python {
+   width: 60%;
    -moz-animation: reactjs 2s ease;
    -webkit-animation: reactjs 2s ease;
 }
