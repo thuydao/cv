@@ -3,7 +3,7 @@ let resumeData = {
   "name": "DAO DUY THUY",
   "role": "Mobile Technical Leader",
   "skypeid": "daoduythuy9690",
-  "roleDescription": "I'm Mobile Manager and Product owner. I develop a product vision, strategy, roadmap and lifecycle management framework. And collaborate with stakeholders to define, design, and manage ongoing maintenance and improvement of product features. Coach and give guidance for the development of the team members. I always willing to learn and be to new challenges in the future.",
+  "roleDescription": "I focus on delivering strategic solutions and building innovative technology products from business needs to technical deployment. With expertise in both strategy and execution, I guide teams through the product lifecycle, ensuring scalable, impactful solutions.As I grow, I aim to lead more in project management and consulting, aligning business goals with sustainable architectures.I'm always ready to embrace new challenges and continuously evolve with industry trends",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -21,9 +21,9 @@ let resumeData = {
       "className": "fa fa-skype"
     }
   ],
-  "aboutme": "I started working in early 2012. I can work well with mobile native and hybrid (React native + Flutter). I have exp about finance, stock, e-commerce, social networking, xmpp, pjsip, socket, chart, media... I have exp for manage the project risks & conflicts that can affect the team's goals. Manage and resolve complex team members relations issues. And identify team core values, evaluate and orient the team progress.",
+  "aboutme": "I began working in 2012, taking on various roles across diverse technical platforms.I have experience working on projects in banking, stock trading, e- commerce, social networking, and voice IP.My expertise includes handling logical computations, performance tracing, and optimization.I’m also skilled in communication and team leadership, ensuring a stable and positive environment within my teams.",
   "address": "Ha Noi, Viet Nam",
-  "website": "https://github.com/thuydao",
+  "website": "https://thuydao.github.io/cv/",
   "education": [
     {
       "UniversityName": "Post & Telecommunications Institute of Technology, Viet Nam",
@@ -42,36 +42,43 @@ let resumeData = {
   ],
   "work": [
     {
-      "CompanyName": "SSI",
-      "specialization": "Mobile Manager",
-      "MonthOfLeaving": "-",
+      "CompanyName": "Freelance",
+      "specialization": "Freelance",
+      "MonthOfLeaving": "",
       "YearOfLeaving": "Present",
-      "Achievements": "- SSI Securities Corporation.\n- I am focus on Iboard application\n- I develop product roadmap, product design, technical solution \n- Team management \n- Top 5 employees (2021)"
+      "Achievements": "- Co-founder, Manager of VNiPass\n- Automation tool, Antidetect browser \n- Optimization consulting for the project ttsopenai.com & doctransgpt.com"
+    },
+    {
+      "CompanyName": "SSI Securities Corporation",
+      "specialization": "Team Lead",
+      "MonthOfLeaving": "Feb",
+      "YearOfLeaving": "2023",
+      "Achievements": "- I am focus on iBoard application\n- I develop product roadmap, product design, technical solution, team management \n- Top Employees of 2021 & 2022"
     },
     {
       "CompanyName": "AxleHire",
       "specialization": "Tech team",
-      "MonthOfLeaving": "OCT",
-      "YearOfLeaving": "2020",
-      "Achievements": "- AxleHire is logistic startup base on US.\n- Driver App (Flutter)\n- Outbound App (Flutter)\n- Map offline solution, passport scan, box auto detect on conveyor"
+      "MonthOfLeaving": "Feb",
+      "YearOfLeaving": "2021",
+      "Achievements": "- AxleHire is logistic startup base on US.\n- Mobile Apps (Flutter). Driver and Outbound\n- Map offline solution, passport scan, box auto detect on conveyor"
     },
     {
       "CompanyName": "VTVCab",
-      "specialization": "Product Owner & Mobile Manager",
+      "specialization": "Product Lead",
       "MonthOfLeaving": "Oct",
       "YearOfLeaving": "2019",
-      "Achievements": "- Technology research \n- Development VTVcab ON, ON Sport, ON Me, VieON. \n- Development DRM, integration to Harmonic transcode system. \n- Management ONSport team"
+      "Achievements": "- I am responsible for VTVcab ON, ON Sport, ON Me, VieON. \n- Technology research.\n- Development DRM, integration to Harmonic transcode system"
     },
     {
       "CompanyName": "SmartOSC",
-      "specialization": "Mobile Manager",
+      "specialization": "Tech Lead",
       "MonthOfLeaving": "May",
       "YearOfLeaving": "2017",
       "Achievements": "- Pre-sale.\n- Define Architecture, convention for SmartOSC’s projects.\n- Review code, avoid any risk in all commits of the members and follow convention.\n- Build library (‘TDCore’), research new trend technology.\n- Join to dedicated team, project base, product team.\n- Resource management"
     },
     {
       "CompanyName": "QSoft VietNam",
-      "specialization": "Mobile Tech Leader",
+      "specialization": "Tech Leader",
       "MonthOfLeaving": "Feb",
       "YearOfLeaving": "2015",
       "Achievements": "- Research new technology (Swift, RAD, game …).\n- Support other ios developer in problem solving and bug fixing.\n- Incharge of solving difficult technical problems.\n- Successfully applied 3rd parties library/frame work to qsoft project such as easy tableView, cache resource webview, the google directions  …\n- Sale support : aswer technical question, prepare technical proposal, estimate project effort."
@@ -84,7 +91,7 @@ let resumeData = {
       "Achievements": "- Development applications chat, voice calls, social networking, and utility applications…\n- The technologies and languages applied for the job: Xmpp, lync, objective –c, html, javascript, phonegap, java …\n- Management and responsible for the progress and quality for team."
     },
   ],
-  "skillsDescription": "Skills list",
+  "skillsDescription": "Tech Skills",
   "skills": [
     {
       "skillname": "Objective-C"
@@ -142,63 +149,51 @@ let resumeData = {
     {
       "name": "VTVcab ON",
       "description": "Media",
-      "imgurl": "images/portfolio/cabon.png",
+      "imgurl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/fb/2e/08fb2e46-c8b6-6f87-ed40-e692a828f275/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp",
       "link": "https://apps.apple.com/vn/app/vtvcab-on/id1068120150"
     },
     {
       "name": "ON Sports",
       "description": "Media",
-      "imgurl": "images/portfolio/onsport.png",
+      "imgurl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/60/90/0e609058-bb21-e16c-b271-16f2a24aa978/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp",
       "link": "https://apps.apple.com/vn/app/on-sports/id1282845933"
     },
     {
       "name": "My VNPost",
       "description": "Logistic",
-      "imgurl": "images/portfolio/vnpost.png",
-      "link": "https://play.google.com/store/apps/details?id=vn.vnpost.myvnpost&hl=en"
+      "imgurl": "https://play-lh.googleusercontent.com/zwGQ_RpbsDv7LpVaMqtKqc26VlXjMEUOe0hgjEthyEzc3sRubE8NZYmEMhm1B4DvtA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.vinatti.vietnampost&hl=en-VN"
     },
     {
       "name": "X-POS",
       "description": "Ecommerce",
-      "imgurl": "images/portfolio/xpos.jpg",
-      "link": "https://apps.apple.com/us/app/x-pos/id893838651"
+      "imgurl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/79/e1/3b79e175-607f-a2c1-6e91-36be9231cad3/AppIcon1-0-0-85-220-0-0-5-0-2x.png/246x0w.webp",
+      "link": "https://apps.apple.com/vn/app/connectpos/id1494831927?l=vi"
     },
     {
       "name": "eWAY SmartPOS",
       "description": "Ecommerce",
-      "imgurl": "images/portfolio/eway.png",
+      "imgurl": "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/fd/80/b9/fd80b9ab-e0c4-112c-7a50-3da1cb815ab8/mzl.rfhwryjr.png/246x0w.webp",
       "link": "https://apps.apple.com/au/app/eway-smartpos/id1029746660"
-    },
-    {
-      "name": "PopBook",
-      "description": "Ecommerce",
-      "imgurl": "images/portfolio/popbook.png",
-      "link": "https://apps.apple.com/gb/app/pop-book-photobook-cutest/id946922333"
     },
     {
       "name": "Brewery Explorer",
       "description": "Social",
-      "imgurl": "images/portfolio/Brewery.jpg",
-      "link": "https://apps.apple.com/us/app/brewery-explorer/id943707682"
+      "imgurl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/fd/8f/c7fd8f39-b79e-03ae-fb0d-9b61cf0644a0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.webp",
+      "link": "https://www.breweryexplorer.us/"
     },
     {
       "name": "SimiCart",
       "description": "Ecommerce",
-      "imgurl": "images/portfolio/SimiCart.jpg",
-      "link": "https://apps.apple.com/us/app/simi-superior/id1045850464"
+      "imgurl": "https://simicart.com/wp-content/uploads/simicart-logo-2782024.svg",
+      "link": "https://simicart.com/"
     },
     {
       "name": "Paktor",
       "description": "Dating",
-      "imgurl": "images/portfolio/paktor.jpg",
-      "link": "https://apps.apple.com/us/app/paktor-dating-match-and-meet-singles-to-mingle/id654972611"
-    },
-    {
-      "name": "Tehuan",
-      "description": "Social",
-      "imgurl": "images/portfolio/tehuan.jpg",
-      "link": "https://play.google.com/store/apps/details?id=vn.vnpost.myvnpost&hl=en"
-    },
+      "imgurl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/ea/ea/95eaea92-a5f5-9d17-faee-7c4c80986146/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/246x0w.webp",
+      "link": "https://www.gopaktor.com/#/home"
+    }
   ],
   "testimonials": [
     {

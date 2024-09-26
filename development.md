@@ -2,7 +2,7 @@ Development
 
 
 Step1: Install the gh-pages package as a “dev-dependency” of the app
-npm install gh-pages — save-dev
+npm install gh-pages --save-dev
 
 Step2: Add homepage property to package.json file
 Open package.json and add
@@ -12,8 +12,8 @@ Step3: Deploy scripts under package.json file
 In the existing scripts property, add a predeploy property and a deploy property, each having the values shown below:
 “scripts”: {
 //…
-“predeploy”: “npm run build”,
-“deploy”: “gh-pages -d build”
+“predeploy”: “ NODE_OPTIONS=--openssl-legacy-provider npm run build ”,
+“deploy”: “ NODE_OPTIONS=--openssl-legacy-provider gh-pages -d build”
 }
 
 The predeploy command helps to bundle the react app while the deploy command fires up the bundled file.
