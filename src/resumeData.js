@@ -51,47 +51,40 @@ let resumeData = {
     {
       "CompanyName": "SSI Securities Corporation",
       "specialization": "Team Lead",
-      "MonthOfLeaving": "Feb",
-      "YearOfLeaving": "2023",
+      "MonthOfLeaving": "2/2021 -",
+      "YearOfLeaving": "12/2023",
       "Achievements": "- I am focus on iBoard application\n- I develop product roadmap, product design, technical solution, team management \n- Top Employees of 2021 & 2022"
     },
     {
       "CompanyName": "AxleHire",
       "specialization": "Tech team",
-      "MonthOfLeaving": "Feb",
-      "YearOfLeaving": "2021",
+      "MonthOfLeaving": "9/2018 -",
+      "YearOfLeaving": "12/2021",
       "Achievements": "- AxleHire is logistic startup base on US.\n- Mobile Apps (Flutter). Driver and Outbound\n- Map offline solution, passport scan, box auto detect on conveyor"
     },
     {
       "CompanyName": "VTVCab",
       "specialization": "Product Lead",
-      "MonthOfLeaving": "Oct",
-      "YearOfLeaving": "2019",
+      "MonthOfLeaving": "5/2017 -",
+      "YearOfLeaving": "2/2021",
       "Achievements": "- I am responsible for VTVcab ON, ON Sport, ON Me, VieON. \n- Technology research.\n- Development DRM, integration to Harmonic transcode system"
     },
     {
       "CompanyName": "SmartOSC",
       "specialization": "Tech Lead",
-      "MonthOfLeaving": "May",
-      "YearOfLeaving": "2017",
-      "Achievements": "- Pre-sale.\n- Define Architecture, convention for SmartOSC’s projects.\n- Review code, avoid any risk in all commits of the members and follow convention.\n- Build library (‘TDCore’), research new trend technology.\n- Join to dedicated team, project base, product team.\n- Resource management"
-    },
-    {
-      "CompanyName": "QSoft VietNam",
-      "specialization": "Tech Leader",
-      "MonthOfLeaving": "Feb",
-      "YearOfLeaving": "2015",
-      "Achievements": "- Research new technology (Swift, RAD, game …).\n- Support other ios developer in problem solving and bug fixing.\n- Incharge of solving difficult technical problems.\n- Successfully applied 3rd parties library/frame work to qsoft project such as easy tableView, cache resource webview, the google directions  …\n- Sale support : aswer technical question, prepare technical proposal, estimate project effort."
+      "MonthOfLeaving": "12/2013 -",
+      "YearOfLeaving": "5/2017",
+      "Achievements": "- Pre-sale.\n- Define Architecture, convention for SmartOSC’s projects.\n- Review code, avoid any risk in all commits of the members and follow convention.\n- Build library (‘TDCore’), research new trend technology.\n- Join to dedicated team, project base, product team.\n- Team management"
     },
     {
       "CompanyName": "VMODEV",
       "specialization": "Developer",
-      "MonthOfLeaving": "Dec",
-      "YearOfLeaving": "2013",
+      "MonthOfLeaving": "1/2012 -",
+      "YearOfLeaving": "12/2013",
       "Achievements": "- Development applications chat, voice calls, social networking, and utility applications…\n- The technologies and languages applied for the job: Xmpp, lync, objective –c, html, javascript, phonegap, java …\n- Management and responsible for the progress and quality for team."
     },
   ],
-  "skillsDescription": "Tech Skills",
+  "skillsDescription": "Tech Skill",
   "skills": [
     {
       "skillname": "Objective-C"
